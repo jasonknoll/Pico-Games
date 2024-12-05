@@ -1113,6 +1113,11 @@ function draw_btn()
 -- TODO draw button sprite
 end
 
+function draw_tempo(t)
+-- TODO print out tempo with P8SCII to increase font size(?)
+	print(t, 40, 40, 7) -- 7 == white
+end
+
 function click_btn()
 -- TODO check for mouse and sprite collision on mouse press
 end
@@ -1127,11 +1132,12 @@ end
 
 -- main loop
 function _init()
-	-- all vars are global
+	-- all vars are global by default
 	tempo = 60
 	window(100, 100)
 end
 
+-- TODO manage metronome main loop
 function _update()
 	mouse_x, mouse_y, mouse_b = mouse()
 	
@@ -1145,6 +1151,8 @@ function _update()
 end
 
 function _draw()
+-- TODO draw tempo & buttons
+	draw_tempo(tempo)
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTEyLTA1IDAxOjU4OjU2Iixtb2RpZmllZD0iMjAyNC0x
