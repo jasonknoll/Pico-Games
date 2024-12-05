@@ -1109,6 +1109,20 @@ TODO
 	Beat visualizer (probably some circles)
 ]] 
 
+function draw_btn()
+end
+
+function click_btn()
+end
+
+function get_mouse_btn()
+end
+
+function increase_tempo(tempo)
+	tempo = tempo + 1
+end
+
+-- main loop
 function _init()
 	-- all vars are global
 	tempo = 60
