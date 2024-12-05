@@ -1118,12 +1118,12 @@ function draw_tempo(t)
 	print(t, 40, 40, 7) -- 7 == white
 end
 
-function click_btn()
+function check_click_btn()
 -- TODO check for mouse and sprite collision on mouse press
 -- NOTE for now, might just use arrow keys for +/- until I work out clicking detection
 
 -- NOTE will the global use of 'tempo' work here?
-if (btn(0)) tempo = tempo + 1 
+if (btnp(0)) tempo = tempo + 1 
 end
 
 function get_mouse_btn()
@@ -1152,6 +1152,8 @@ function _update()
 	elseif (mouse_b == 0x2) then
 		print("right mouse button")
 	end
+
+	check_click_btn()
 end
 
 function _draw()
