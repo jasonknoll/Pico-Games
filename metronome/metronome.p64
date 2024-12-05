@@ -1120,14 +1120,18 @@ end
 
 function click_btn()
 -- TODO check for mouse and sprite collision on mouse press
+-- NOTE for now, might just use arrow keys for +/- until I work out clicking detection
+
+-- NOTE will the global use of 'tempo' work here?
+if (btn(0)) tempo = tempo + 1 
 end
 
 function get_mouse_btn()
 -- TODO get mouse x, y, button
 end
 
-function increase_tempo(tempo)
-	tempo = tempo + 1
+function increase_tempo(t)
+	t = t + 1
 end
 
 -- main loop
