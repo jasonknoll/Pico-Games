@@ -4,33 +4,33 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIscmV2aXNpb249NF1dbHo0AG0AAAAFMQAA8xR7WzBdPXtibXA9cHh1AEMg
-EBAE8PAsZmxhZ3M9MCxwYW5feAgAz3k9MCx6b29tPTh9LDEA----------------------------
-------------------------------------51BtPTh9fQ==
+Mi0wNSAwMjoyNTo0NSIscmV2aXNpb249NDNdXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
+IBAQBPDwLGZsYWdzPTAscGFuX3gIAM95PTAsem9vbT04fSwxAP--------------------------
+-------------------------------------_dQbT04fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNSAwMjoyNTo0NSIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIscmV2aXNpb249NF1dbHo0AGgAAABYEAAA8Ah7e2JtcD11c2VyZGF0YSgi
-aTE2IiwzMgMALyIwAQD--------------------78QgiKSxoaWRkZW49ZmFsc2UscGFuX3g9MAgA
-0nk9MCx0aWxlX2g9MTYKABB3CgCAem9vbT0xfX0=
+Mi0wNSAwMjoyNTo0NSIscmV2aXNpb249NDNdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
+ImkxNiIsMzIDAC8iMAEA--------------------_-EIIiksaGlkZGVuPWZhbHNlLHBhbl94PTAI
+ANJ5PTAsdGlsZV9oPTE2CgAQdwoAgHpvb209MX19
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNSAwMjoyNTo0NSIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIscmV2aXNpb249NF1dbHo0ABEBAABSCAAA8CdweHUAAygAAAQABA9AEAIO
-AAGgASACoA4ADxAADfDKAQIDBAUGBwAP-5AICQoLDwwPDQ8ODw8QAPAADQ8RDxIPEw8UDxUPFg8X
-EwDxAQ8YDxkPGg8bDxwPHQ8eDx8UAPEAIA8hDyIPIw8kDyUPJg8nFADxACgPKQ8qDysPLA8tDy4P
-LxQA8QAwDzEPMg8zDzQPNQ82DzcUAP8FOA85DzoPOw88Dz0PPg8-AA--8P8BAOv-J1oBEAYPIBAB
-IAEgAfAAAhACDBABIA8hIAEwD0Dwww8oD--wxg-4Cg--D4AP9w8NAfAJARAGDDAA-zkf-wEA3L-4
-D0AADUD--7DwcAoA--9kH-8BAP_ZUP----8g
+Mi0wNSAwMjoyNTo0NSIscmV2aXNpb249NDNdXWx6NAARAQAAUggAAPAncHh1AAMoAAAEAAQPQBAC
+DgABoAEgAqAOAA8QAA3wygECAwQFBgcAD-_QCAkKCw8MDw0PDg8PEADwAA0PEQ8SDxMPFA8VDxYP
+FxMA8QEPGA8ZDxoPGw8cDx0PHg8fFADxACAPIQ8iDyMPJA8lDyYPJxQA8QAoDykPKg8rDywPLQ8u
+Dy8UAPEAMA8xDzIPMw80DzUPNg83FAD-BTgPOQ86DzsPPA89Dz4PPwAP--D-AQDr-ydaARAGDyAQ
+ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP85H-8BANy-
+_A9AAA1A--_w8HAKAP--ZB--AQD-mVD-----IA==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNSAwMjoyNTo0NSIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: label.png
 b64$iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAADq1ElEQVR4Ae29L5QkN7L9H785
 DQQFEzYcONDQ0NBwoeFCQ0NDw4WGhoaGhoaGhgMbFhQU_IKf52WE6uoqQlJWt3fX702dk91VmUop
@@ -1090,29 +1090,49 @@ fa-1LokjiRzpXII9nYF3BzqOfUT33a29_WboqgQG6EdnR89XwJ0BzAMUn4FrUDtpx9edAkXrvXWu
 f0x6N8Q6ebd5gubCde6g7vFD5P8HJ8CrmS6g1gAAAAAQdEVYdExvZGVQTkcAMjAxMTAyMjHjWbbB
 AAAAAElFTkSuQmCC
 :: main.lua
---[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-05 02:00:58",revision=10]]
--- Pico Metronome
+--[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-05 02:25:45",revision=58]]
+-- Picotron Metronome
 -- Jason Knoll
 
 --[[
 	Create a simple toy metronome app that
 	may or may not actually be usable.
+	
+	Picotron version
 ]]
 
+--[[ 
+TODO
+	Tempo display
+	+/- buttons
+	Click sound fx
+	Beat visualizer (probably some circles)
+]] 
 
 function _init()
+	-- all vars are global
+	tempo = 60
 end
 
 function _update()
+	mouse_x, mouse_y, mouse_b = mouse()
+	
+	-- TODO make it not triple click because i held it down for too many frames
+	-- Frame buffer?
+	if (mouse_b == 0x1) then
+		print("Left mouse button")
+	elseif (mouse_b == 0x2) then
+		print("right mouse button")
+	end
 end
 
 function _draw()
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTEyLTA1IDAxOjU4OjU2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjowMDo1OCIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
-cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjOCIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2Nh
-dGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9Mn0se2xvY2F0aW9uPSJtYXAvMC5tYXAi
-LHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249InNmeC8wLnNmeCIsd29ya3NwYWNlX2luZGV4
-PTR9fV1d
+Mi0wNSAwMjoyNTo0NSIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
+cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjNDUiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+YXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFw
+Iix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRl
+eD00fX1dXQ==
 :: [eoc]
