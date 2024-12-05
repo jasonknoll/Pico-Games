@@ -1113,13 +1113,27 @@ TODO
 WIN_W = 100
 WIN_H = 100
 
+-- TODO find a good spot for the tempo
+TEMPO_X = 40
+TEMPO_Y = 40
+
+-- +/- button coordinates
+PLUS_X = 0
+PLUS_Y = 0
+MINUS_X = 0
+MINUS_Y = 0
+
 function draw_btn()
 -- TODO draw button sprite
 end
 
+function get_tempo_p8scii()
+-- TODO 
+end
+
 function draw_tempo(t)
 -- TODO print out tempo with P8SCII to increase font size(?)
-	print(t, 40, 40, 7) -- 7 == white
+	print(t, TEMPO_X, TEMPO_Y, 7) -- 7 == white
 end
 
 function check_click_btn()
