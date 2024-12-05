@@ -4,25 +4,25 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIscmV2aXNpb249NDNdXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
+Mi0wNSAwMjo0MTozMiIscmV2aXNpb249NTddXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
 IBAQBPDwLGZsYWdzPTAscGFuX3gIAM95PTAsem9vbT04fSwxAP--------------------------
 -------------------------------------_dQbT04fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNSAwMjo0MTozMiIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIscmV2aXNpb249NDNdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
+Mi0wNSAwMjo0MTozMiIscmV2aXNpb249NTZdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
 ImkxNiIsMzIDAC8iMAEA--------------------_-EIIiksaGlkZGVuPWZhbHNlLHBhbl94PTAI
 ANJ5PTAsdGlsZV9oPTE2CgAQdwoAgHpvb209MX19
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNSAwMjo0MTozMiIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIscmV2aXNpb249NDNdXWx6NAARAQAAUggAAPAncHh1AAMoAAAEAAQPQBAC
+Mi0wNSAwMjo0MTozMiIscmV2aXNpb249NTZdXWx6NAARAQAAUggAAPAncHh1AAMoAAAEAAQPQBAC
 DgABoAEgAqAOAA8QAA3wygECAwQFBgcAD-_QCAkKCw8MDw0PDg8PEADwAA0PEQ8SDxMPFA8VDxYP
 FxMA8QEPGA8ZDxoPGw8cDx0PHg8fFADxACAPIQ8iDyMPJA8lDyYPJxQA8QAoDykPKg8rDywPLQ8u
 Dy8UAPEAMA8xDzIPMw80DzUPNg83FAD-BTgPOQ86DzsPPA89Dz4PPwAP--D-AQDr-ydaARAGDyAQ
@@ -30,7 +30,7 @@ ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP85H-8BANy-
 _A9AAA1A--_w8HAKAP--ZB--AQD-mVD-----IA==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNSAwMjo0MTozMiIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: label.png
 b64$iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAADq1ElEQVR4Ae29L5QkN7L9H785
 DQQFEzYcONDQ0NBwoeFCQ0NDw4WGhoaGhoaGhgMbFhQU_IKf52WE6uoqQlJWt3fX702dk91VmUop
@@ -1090,7 +1090,7 @@ fa-1LokjiRzpXII9nYF3BzqOfUT33a29_WboqgQG6EdnR89XwJ0BzAMUn4FrUDtpx9edAkXrvXWu
 f0x6N8Q6ebd5gubCde6g7vFD5P8HJ8CrmS6g1gAAAAAQdEVYdExvZGVQTkcAMjAxMTAyMjHjWbbB
 AAAAAElFTkSuQmCC
 :: main.lua
---[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-05 02:25:45",revision=58]]
+--[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-05 02:41:32",revision=76]]
 -- Picotron Metronome
 -- Jason Knoll
 
@@ -1110,12 +1110,15 @@ TODO
 ]] 
 
 function draw_btn()
+-- TODO draw button sprite
 end
 
 function click_btn()
+-- TODO check for mouse and sprite collision on mouse press
 end
 
 function get_mouse_btn()
+-- TODO get mouse x, y, button
 end
 
 function increase_tempo(tempo)
@@ -1126,6 +1129,7 @@ end
 function _init()
 	-- all vars are global
 	tempo = 60
+	window(100, 100)
 end
 
 function _update()
@@ -1144,8 +1148,8 @@ function _draw()
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTEyLTA1IDAxOjU4OjU2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjoyNTo0NSIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
-cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjNDUiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+Mi0wNSAwMjo0MTozMiIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
+cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjMjgiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
 YXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFw
 Iix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRl
 eD00fX1dXQ==
