@@ -1139,7 +1139,7 @@ end
 
 function draw_tempo(t)
 -- TODO print out tempo with P8SCII to increase font size(?)
-	print(t, TEMPO_X, TEMPO_Y, 7) -- 7 == white
+	print(string.format("\^x10%i", t), TEMPO_X, TEMPO_Y, 7) -- 7 == white
 end
 
 function check_click_btn()
