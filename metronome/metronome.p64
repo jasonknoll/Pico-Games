@@ -4,25 +4,25 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIscmV2aXNpb249NTddXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
+Mi0wNiAwMzowNToxOCIscmV2aXNpb249OTZdXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
 IBAQBPDwLGZsYWdzPTAscGFuX3gIAM95PTAsem9vbT04fSwxAP--------------------------
 -------------------------------------_dQbT04fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNiAwMzowNToxOCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIscmV2aXNpb249NTZdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
+Mi0wNiAwMzowNToxOCIscmV2aXNpb249OTVdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
 ImkxNiIsMzIDAC8iMAEA--------------------_-EIIiksaGlkZGVuPWZhbHNlLHBhbl94PTAI
 ANJ5PTAsdGlsZV9oPTE2CgAQdwoAgHpvb209MX19
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNiAwMzowNToxOCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIscmV2aXNpb249NTZdXWx6NAARAQAAUggAAPAncHh1AAMoAAAEAAQPQBAC
+Mi0wNiAwMzowNToxOCIscmV2aXNpb249OTVdXWx6NAARAQAAUggAAPAncHh1AAMoAAAEAAQPQBAC
 DgABoAEgAqAOAA8QAA3wygECAwQFBgcAD-_QCAkKCw8MDw0PDg8PEADwAA0PEQ8SDxMPFA8VDxYP
 FxMA8QEPGA8ZDxoPGw8cDx0PHg8fFADxACAPIQ8iDyMPJA8lDyYPJxQA8QAoDykPKg8rDywPLQ8u
 Dy8UAPEAMA8xDzIPMw80DzUPNg83FAD-BTgPOQ86DzsPPA89Dz4PPwAP--D-AQDr-ydaARAGDyAQ
@@ -30,7 +30,7 @@ ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP85H-8BANy-
 _A9AAA1A--_w8HAKAP--ZB--AQD-mVD-----IA==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0wNiAwMzowNToxOCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: label.png
 b64$iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAADq1ElEQVR4Ae29L5QkN7L9H785
 DQQFEzYcONDQ0NBwoeFCQ0NDw4WGhoaGhoaGhgMbFhQU_IKf52WE6uoqQlJWt3fX702dk91VmUop
@@ -1090,7 +1090,7 @@ fa-1LokjiRzpXII9nYF3BzqOfUT33a29_WboqgQG6EdnR89XwJ0BzAMUn4FrUDtpx9edAkXrvXWu
 f0x6N8Q6ebd5gubCde6g7vFD5P8HJ8CrmS6g1gAAAAAQdEVYdExvZGVQTkcAMjAxMTAyMjHjWbbB
 AAAAAElFTkSuQmCC
 :: main.lua
---[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-05 02:41:32",revision=76]]
+--[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-06 03:05:18",revision=127]]
 -- Picotron Metronome
 -- Jason Knoll
 
@@ -1114,21 +1114,27 @@ WIN_W = 100
 WIN_H = 100
 
 -- TODO find a good spot for the tempo
-TEMPO_X = 40
-TEMPO_Y = 40
+TEMPO_X = WIN_W / 2 - 5
+TEMPO_Y = WIN_H / 2 - 5
 
 -- +/- button coordinates
 PLUS_X = 0
 PLUS_Y = 0
+PLUS_W = 0
+PLUS_H = 0
+
 MINUS_X = 0
+MINUS_Y = 0
+MINUS_H = 0
 MINUS_Y = 0
 
 function draw_btn()
 -- TODO draw button sprite
+	rect(PLUS_X, PLUS_Y, PLUS_X + PLUS_W, PLUS_Y + PLUS_H, 7)
 end
 
 function get_tempo_p8scii()
--- TODO 
+-- TODO translate tempo text into p8scii large text
 end
 
 function draw_tempo(t)
@@ -1142,17 +1148,19 @@ function check_click_btn()
 
 -- NOTE will the global use of 'tempo' work here?
 -- NOTE all normal vars are pass by value
-	if (btnp(0)) tempo = increase_tempo(tempo)
-	if (btnp(2)) tempo = decrease_tempo(tempo)
+	if (btnp(1)) tempo = increase_tempo(tempo)
+	if (btnp(0)) tempo = decrease_tempo(tempo)
 end
 
 function increase_tempo(t)
-	t = t + 1
+	-- After this it's just white noise no?
+	if (t < 250) t = t + 1
 	return t
 end
 
 function decrease_tempo(t)
-	t = t - 1
+	-- Tempo cannot be 0
+	if (t > 1) t = t - 1
 	return t
 end
 
@@ -1165,7 +1173,7 @@ end
 
 -- TODO manage metronome main loop
 function _update()
-	mouse_x, mouse_y, mouse_b = mouse()
+	local mouse_x, mouse_y, mouse_b = mouse()
 	
 	-- TODO make it not triple click because i held it down for too many frames
 	-- Frame buffer?
@@ -1180,12 +1188,13 @@ end
 
 function _draw()
 -- TODO draw tempo & buttons
+	cls(0)
 	draw_tempo(tempo)
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTEyLTA1IDAxOjU4OjU2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNSAwMjo0MTozMiIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
-cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjMjgiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+Mi0wNiAwMzowNToxOCIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
+cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjNDAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
 YXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFw
 Iix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRl
 eD00fX1dXQ==
