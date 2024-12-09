@@ -1169,6 +1169,12 @@ function get_sound_interval_from_tempo(t)
 	-- use it to play the click sounds based on the tempo
 end
 
+function draw_beat_circles()
+-- [[
+	If beat == 1, fill in first circle and so on
+]]
+end
+
 -- main loop
 function _init()
 	-- all vars are global by default
@@ -1176,6 +1182,7 @@ function _init()
 	window(WIN_W, WIN_H)
 
 	beats = 4 -- how many beats per measure
+	current_beat = 1 -- starts on 1
 	note_length = 4 -- 4 = quater, 8 = eigth, etc.
 end
 
@@ -1192,12 +1199,15 @@ function _update()
 	end
 
 	check_click_btn()
+	-- Click, wait, click, wait, etc.
+	-- Calculate wait time based on note_length and tempo
 end
 
 function _draw()
 -- TODO draw tempo & buttons
 	cls(0)
 	draw_tempo(tempo)
+	draw_beat_circles()
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTEyLTA1IDAxOjU4OjU2Iixtb2RpZmllZD0iMjAyNC0x
