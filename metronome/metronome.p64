@@ -1139,7 +1139,7 @@ end
 
 function draw_tempo(t)
 -- TODO print out tempo with P8SCII to increase font size(?)
-	print(string.format("\^x10%i", t), TEMPO_X, TEMPO_Y, 7) -- 7 == white
+	print(string.format("\^x10%i", t), TEMPO_X - 5, TEMPO_Y, 7) -- 7 == white
 end
 
 function check_click_btn()
@@ -1170,7 +1170,7 @@ function get_sound_interval_from_tempo(t)
 end
 
 function draw_beat_circles()
--- [[
+--[[
 	If beat == 1, fill in first circle and so on
 ]]
 end
