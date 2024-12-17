@@ -1172,7 +1172,38 @@ end
 function draw_beat_circles()
 --[[
 	If beat == 1, fill in first circle and so on
+
+	Every circle has the same size, their position is based off of the initial circle
 ]]
+	local circ_size = 0
+	local init_x = 0
+	local init_y = 0
+	local color = 0
+	local r = 4
+
+	if (current_beat == 1)
+		circfill(init_x, init_y, 4)
+	else 
+		circ()
+	end
+
+	if (current_beat == 2)
+		circfill()
+	else 
+		circ()
+	end
+
+	if (current_beat == 3)
+		circfill()
+	else 
+		circ()
+	end
+
+	if (current_beat == 4)
+		circfill()
+	else 
+		circ()
+	end
 end
 
 -- main loop
