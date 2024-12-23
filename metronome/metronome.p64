@@ -4,33 +4,33 @@ version 2
 :: gfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIscmV2aXNpb249OTZdXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
-IBAQBPDwLGZsYWdzPTAscGFuX3gIAM95PTAsem9vbT04fSwxAP--------------------------
--------------------------------------_dQbT04fX0=
+Mi0yMyAyMDoyNjo1MyIscmV2aXNpb249MTk2XV1sejQAbQAAAAUxAADzFHtbMF09e2JtcD1weHUA
+QyAQEATw8CxmbGFncz0wLHBhbl94CADPeT0wLHpvb209OH0sMQD-------------------------
+---------------------------------------nUG09OH19
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0yMyAyMDoyNjo1MyIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: map/
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIscmV2aXNpb249OTVdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
-ImkxNiIsMzIDAC8iMAEA--------------------_-EIIiksaGlkZGVuPWZhbHNlLHBhbl94PTAI
-ANJ5PTAsdGlsZV9oPTE2CgAQdwoAgHpvb209MX19
+Mi0yMyAyMDoyNjo1MyIscmV2aXNpb249MTk1XV1sejQAaAAAAFgQAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDMyAwAvIjABAP--------------------vxCCIpLGhpZGRlbj1mYWxzZSxwYW5feD0w
+CADSeT0wLHRpbGVfaD0xNgoAEHcKAIB6b29tPTF9fQ==
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0yMyAyMDoyNjo1MyIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: sfx/
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIscmV2aXNpb249OTVdXWx6NAARAQAAUggAAPAncHh1AAMoAAAEAAQPQBAC
-DgABoAEgAqAOAA8QAA3wygECAwQFBgcAD-_QCAkKCw8MDw0PDg8PEADwAA0PEQ8SDxMPFA8VDxYP
-FxMA8QEPGA8ZDxoPGw8cDx0PHg8fFADxACAPIQ8iDyMPJA8lDyYPJxQA8QAoDykPKg8rDywPLQ8u
-Dy8UAPEAMA8xDzIPMw80DzUPNg83FAD-BTgPOQ86DzsPPA89Dz4PPwAP--D-AQDr-ydaARAGDyAQ
-ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP85H-8BANy-
-_A9AAA1A--_w8HAKAP--ZB--AQD-mVD-----IA==
+Mi0yMyAyMDoyNjo1MyIscmV2aXNpb249MTk2XV1sejQAIQEAAN0HAADwJ3B4dQADKAAABAAED0AQ
+Ag4AAaABIAKgDgAPEAAN8MoBAgMEBQYHAA--kAgJCgsPDA8NDw4PDxAA8AANDxEPEg8TDxQPFQ8W
+DxcTAPEBDxgPGQ8aDxsPHA8dDx4PHxQA8QAgDyEPIg8jDyQPJQ8mDycUAPEAKA8pDyoPKw8sDy0P
+Lg8vFADxADAPMQ8yDzMPNA81DzYPNxQA-wU4DzkPOg87DzwPPQ8_Dz8AD--w-wEA6-8nWgEQBg8g
+EAEgASAB8AACEAIMEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYMMAD-OR--AQDc
+8QT4D0AADUAPLv--LwD_Lwz_L-BwEgBf-rDwcAMIAP-cH-8BAP_ZUP----8g
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
+Mi0yMyAyMDoyNjo1MyIsc3RvcmVkPSIyMDI0LTAzLTI0IDAwOjQ4OjA2Il1d
 :: label.png
 b64$iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAADq1ElEQVR4Ae29L5QkN7L9H785
 DQQFEzYcONDQ0NBwoeFCQ0NDw4WGhoaGhoaGhgMbFhQU_IKf52WE6uoqQlJWt3fX702dk91VmUop
@@ -1090,7 +1090,7 @@ fa-1LokjiRzpXII9nYF3BzqOfUT33a29_WboqgQG6EdnR89XwJ0BzAMUn4FrUDtpx9edAkXrvXWu
 f0x6N8Q6ebd5gubCde6g7vFD5P8HJ8CrmS6g1gAAAAAQdEVYdExvZGVQTkcAMjAxMTAyMjHjWbbB
 AAAAAElFTkSuQmCC
 :: main.lua
---[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-06 03:05:18",revision=127]]
+--[[pod_format="raw",created="2024-03-24 00:48:06",modified="2024-12-23 20:26:53",revision=257]]
 -- Picotron Metronome
 -- Jason Knoll
 
@@ -1103,9 +1103,6 @@ AAAAAElFTkSuQmCC
 
 --[[ 
 TODO
-	Tempo display
-	+/- buttons
-	Click sound fx
 	Beat visualizer (probably some circles)
 ]] 
 
@@ -1139,7 +1136,7 @@ end
 
 function draw_tempo(t)
 -- TODO print out tempo with P8SCII to increase font size(?)
-	print(string.format("\^x10%i", t), TEMPO_X - 5, TEMPO_Y, 7) -- 7 == white
+	print(string.format(t), TEMPO_X - 5, TEMPO_Y, 7) -- 7 == white
 end
 
 function check_click_btn()
@@ -1170,6 +1167,8 @@ function get_beat_duration(t)
 	local dur = 60 / t
 	-- todo get the time between audible clicks
 	-- use it to play the click sounds based on the tempo
+	
+	return dur
 end
 
 function draw_beat_circles()
@@ -1184,49 +1183,55 @@ function draw_beat_circles()
 	local color = 0
 	local r = 4
 
-	if (current_beat == 1)
+	if (current_beat == 1) then
 		circfill(init_x, init_y, 4)
 	else 
-		circ()
+		--circ()
 	end
 
-	if (current_beat == 2)
-		circfill()
+	if (current_beat == 2) then
+		--circfill()
 	else 
-		circ()
+		--circ()
 	end
 
-	if (current_beat == 3)
-		circfill()
+	if (current_beat == 3)then
+		--circfill()
 	else 
-		circ()
+		--circ()
 	end
 
-	if (current_beat == 4)
-		circfill()
+	if (current_beat == 4) then
+		--circfill()
 	else 
-		circ()
+		--circ()
 	end
 end
 
 -- main loop
 function _init()
 	-- all vars are global by default
+	frame_counter = 0
 	tempo = 60
 	window(WIN_W, WIN_H)
 
 	beats = 4 -- how many beats per measure
 	current_beat = 1 -- starts on 1
 	note_length = 4 -- 4 = quater, 8 = eigth, etc.
-	click_duration = 60 / tempo
-	beat_timer = 0 -- will determine when click happens
-
-	-- TODO setup click sound
-	--sfx()
+	frame_counter = 0
 end
 
 -- TODO manage metronome main loop
 function _update()
+	click_duration = 60 / tempo
+	frame_counter += 1
+	frames_per_beat = click_duration * 60
+	
+	if frame_counter >= frames_per_beat then
+		sfx(0)
+		frame_counter = 0
+	end
+
 	local mouse_x, mouse_y, mouse_b = mouse()
 	
 	-- TODO make it not triple click because i held it down for too many frames
@@ -1240,18 +1245,20 @@ function _update()
 	check_click_btn()
 	-- Click, wait, click, wait, etc.
 	-- Calculate wait time based on note_length and tempo
+	current_beat += 1
 end
 
 function _draw()
 -- TODO draw tempo & buttons
 	cls(0)
 	draw_tempo(tempo)
-	draw_beat_circles()
+	print(string.format(frame_counter, 0, 0))
+	print(string.format(frames_per_beat, 0, 1))
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTEyLTA1IDAxOjU4OjU2Iixtb2RpZmllZD0iMjAyNC0x
-Mi0wNiAwMzowNToxOCIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
-cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjNDAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+Mi0yMyAyMDoyNjo1MyIscnVudGltZT0xMixzdG9yZWQ9IjIwMjQtMDMtMjQgMDA6NDg6MjYiLHdv
+cmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjMTMiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
 YXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFw
 Iix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRl
 eD00fX1dXQ==
