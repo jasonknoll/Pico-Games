@@ -1155,16 +1155,19 @@ end
 function increase_tempo(t)
 	-- After this it's just white noise no?
 	if (t < 250) t = t + 1
+	click_duration = get_beat_duration(t)
 	return t
 end
 
 function decrease_tempo(t)
 	-- Tempo cannot be 0
 	if (t > 1) t = t - 1
+	click_duration = get_beat_duration(t)
 	return t
 end
 
-function get_sound_interval_from_tempo(t)
+function get_beat_duration(t)
+	local dur = 60 / t
 	-- todo get the time between audible clicks
 	-- use it to play the click sounds based on the tempo
 end
@@ -1215,6 +1218,11 @@ function _init()
 	beats = 4 -- how many beats per measure
 	current_beat = 1 -- starts on 1
 	note_length = 4 -- 4 = quater, 8 = eigth, etc.
+	click_duration = 60 / tempo
+	beat_timer = 0 -- will determine when click happens
+
+	-- TODO setup click sound
+	--sfx()
 end
 
 -- TODO manage metronome main loop
